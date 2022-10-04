@@ -39,7 +39,7 @@
         font-size: 79.167%;
     }
     .bold{
-      font-size: 1.3em;
+      font-size: 0.8em;
     }
     .bold::before{
         font-size: 1em;
@@ -81,7 +81,7 @@
 
 
 }
-@media (max-width:280px) {
+@media (max-width:350px) {
     
     body{
         min-width: 237px;
