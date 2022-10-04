@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+@media (max-width:900px) {
+    body{
+        height:100vh;
+        width:100vw;
+    }
+   .container{
+    height:99vh;
+    width:99vw;
+   }
+    .info{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width:100vw;
+        height:70vh;
+        min-width: 300px;
+        max-height: 640px;
+        margin-top: 1vh;
+    }
+    .image{
+        /* min-width: 300px; */
+        
+    }
+    .about{
+      font-size: 24px;
+      width:75vw;
+      text-align: center;
+    }
+    h1{
+        font-size: 120.833%;
+        word-wrap: normal;
+    }
+    p{
+        font-size: 79.167%;
+    }
+    .contact{
+        width:80vw;
+    }
+    .contact h3{
+        font-family: 'Oswald', sans-serif;
+        font-size: 159%;
+        font-weight: 700;
+    }
+    .contacts{
+        margin-top: 0px;
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        width:100%;
+    }
+    .contacts a{
+        padding:6px
+    }
+    .contacts a img{
+        min-height: 0.5em;
+
+    }
+    /* a img:hover{
+        transform: scale(1.5);
+    } */
+/* 
+    .contact{
+        display:flex;
+        justify-content: center;
+        width:100vw;
+    } */
+
+
+}
+@media (max-width:280px) {
+    
+    .container{
+        height:100vh;
+        align-items: center;
+        justify-content: center;
+      
+    }
+  .info{
+    margin-top: 0;
+    height:400px;
+  }
+    .image{
+        height:10rem;
+        width:13rem;
+    }
+    .about{
+        font-size: 16px;
+    }
+    .about h1{
+        font-size: 1em;
+    }
+    .contact{
+        height:100px;
+    }
+    .contacts h3{
+        font-size: 134%;
+    }
+}
