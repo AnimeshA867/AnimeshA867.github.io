@@ -187,7 +187,7 @@ section {
 }
 
 .header .logo img {
-  max-height: 4rem;
+  max-height: 3rem;
   margin-right: 6px;
 }
 
@@ -1252,6 +1252,10 @@ section {
   .header .logo img {
     max-height: 3rem;
     margin-right: 6px;
+}
+.header .logo img {
+  max-height: 2.5rem;
+  margin-right: 6px;
 }
 .about .btn-learn-more {
   line-height: 0;
