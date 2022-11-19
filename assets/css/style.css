@@ -322,7 +322,7 @@ h6 {
 #hero {
   width: 100;
   height: 100vh;
-  background: url("../img/background.png") top right;
+  background: url("https://i.ibb.co/qpfT0n7/background.png") top right;
   background-size: cover;
   position: relative;
 }
@@ -620,9 +620,10 @@ section {
 }
 
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url("https://i.ibb.co/yfQcBJ8/me.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
+  
 }
 
 .about .skills-content {
@@ -950,7 +951,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/background-footer.png") top center no-repeat;
+  background: url("https://i.ibb.co/sFD2zpx/background-footer.png") top center no-repeat;
   background-size: cover;
   color: #fff;
   font-size: 14px;
