@@ -322,7 +322,7 @@ h6 {
 #hero {
   width: 100;
   height: 100vh;
-  background: url("https://i.ibb.co/FwjbfK2/background.jpg") top right;
+  background: url("https://i.ibb.co/GW82WbV/background.webp") top right;
   background-size: cover;
   position: relative;
 }
@@ -620,7 +620,7 @@ section {
 }
 
 .about .image {
-  background: url("https://i.ibb.co/xHPbCCj/me.png") center center no-repeat;
+  background: url("https://i.ibb.co/w7jnC8D/me.webp") center center no-repeat;
   background-size: cover;
   min-height: 500px;
   
@@ -951,7 +951,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("https://i.ibb.co/hBwB1Rb/background-footer.png") top center no-repeat;
+  background: url("https://i.ibb.co/NYmdb5k/background-footer.webp") top center no-repeat;
   background-size: cover;
   color: #fff;
   font-size: 14px;
