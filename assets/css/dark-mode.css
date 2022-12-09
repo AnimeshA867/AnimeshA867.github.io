@@ -3,9 +3,7 @@
         background-color: black;
         color:white;
     }
-    #hero h1{
-        color:#000;
-    }
+ 
 
     .about .content .count-box span{
         color:#f2f9ff;
@@ -13,7 +11,9 @@
     .about .content .count-box p{
         color:#d8edff;
     }
-  
+    .section-title span{
+        color:#111111;
+    }   
     .section-title h2{
         color:#dfdfdf;
     }  
